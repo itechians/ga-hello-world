@@ -1,0 +1,15 @@
+{
+  "name": "ga-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geneticalgorithm": "^1.0.2",
+    "js-levenshtein": "^1.1.6"
+  }
+}
